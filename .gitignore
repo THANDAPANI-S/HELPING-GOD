@@ -1,0 +1,4 @@
+nodue_modules/
+dist/
+.env
+.env.local
